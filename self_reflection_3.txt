@@ -1,0 +1,50 @@
+
+PUT YOUR NAME HERE: __Maggie Sheerin__
+
+NOTE: If you are working by yourself (no teammates), then ignore this file
+(self_reflection_3.txt) and use file   self_reflection_1.txt   instead.
+If you are working with teammates, then the order
+of the names in your team repository determines who uses which of the three
+self_reflection_X.txt files, as per this example:
+   For team     csse120-202110-andersm3-morrisnc-sheerimm
+     -- anderssm3 must use   self_reflection_1.txt
+     -- morrisnc  must use   self_reflection_2.txt
+     -- sheerimm  must use   self_reflection_3.txt
+Another example:
+   For team     csse120-202101-kintnecm-rams-harristj
+     -- kintnecm  must use   self_reflection_1.txt
+     -- rams      must use   self_reflection_2.txt
+     -- harristj  must use   self_reflection_3.txt
+
+Then answer the following questions.
+Answers can be BRIEF, but we expect them to be THOUGHTFUL answers.
+
+1.  Explain, in a sentence or two, something that SURPRISED you
+    after you began working on your project.
+
+    Something that surprised me about this project was how easy I was able to create something fun and meaningful.
+    When I was younger I never would have thought that I could make a whole video game in just two weeks.
+
+2.  Identify something that you would have done DIFFERENTLY in your project,
+    with hindsight.  Then explain, in a short paragraph, how you did that
+    something (in your actual project), how you would have done it differently,
+    why you would do it differently, and how you would encourage yourself
+    to do it (or its equivalent) differently in future projects.
+
+    Something that I would have done differently in my project is always work in person with my team.
+    For the most part, we were able to accomplish a lot by both meeting in person and then working separately on
+    our own parts. When we would come together to combine our work, it was sometimes difficult to learn what is going on
+    in someone else's code. If we always worked together on something, we would all know what was going on in a
+    particular piece of code or class. In the future, I will encourage all my teammates to get together when a pivotal
+    piece of code is being made, or for the person who drafted it to present the code to the team so everyone
+    understands it.
+
+3.  Identify something that you are particularly PROUD of your work in your
+    project.  Explain, in a short paragraph, what it is, why you are proud
+    of it, and how you will encourage yourself to do it (or its equivalent)
+    similarly in future projects.
+
+    I am particularly proud of the positivity, determination, and ambition that my team had. This team did not go for
+    the bare minimum. I was extremely proud of how everyone wanted to perfect their part and make the most out of this
+    awesome project. This made me realize that a successful project is dependent on the mood and ethic of the members of
+    the team working on it. In the future, I will be sure to always encourage my teammates and expect great work.

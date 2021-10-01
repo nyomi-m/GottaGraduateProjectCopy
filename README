@@ -1,0 +1,62 @@
+In this file:
+
+1. Explain briefly what your project does and how it works.
+
+For our project, we made a game called "Gotta Graduate" in which a student (represented by Rosie, the elephant) has to
+make their way through the campus of Rose-Hulman in order to graduate. This consists of hopping from platform to
+platform and avoiding vicious geese! The left and right arrows wil be used to move left and right, respectively, and the
+space bar will be used to jump.
+
+If Rosie falls off the platform or gets attacked by a goose, she will start the level over. There are 5 levels:
+levels 1-4 consist of surprisingly hard challenges, while on level 5 all you have to do is walk across the stage to
+receive your diploma! All GUIs have buttons on them that work when clicked on.
+
+2. List the names of the classes in your project.
+
+        1 - Student
+        2 - Block
+        3 - Goose
+        4 - Button
+        5 - Time
+        6 - Goal
+
+3. If working with partner(s), indicate briefly how you divided up the work,
+   that is, who did what?
+
+   Nyomi - Created the Button, Time, and Goal class. Nyomi created our start screen and made it interactable with
+            a mouse click. She also made the time appear in the upper left hand corner of the screen, and gave our
+            game the ability to move from level to level. She also delivered game audio and initial structure of the
+            game.
+
+   Melanie - Created the Student and Goose class. Melanie was able to create an avatar that looks as if it is walking
+              and switch the direction it is facing. She also came up with a method to have gooses
+              chase the avatar using a slope method
+
+   Maggie - Created Block class. She then used the block class to design and move the blocks on each level, and
+            determined block collisions. She also designed the backgrounds for levels 2-5 and made the "Congratulations"
+            screen.
+
+4. List the modules (libraries) that you used (the things in IMPORT statements).
+
+     -pygame
+     -sys
+
+5. Briefly list what things in the project are beyond what you learned
+   from the regular classwork in CSSE 120.  Include the major PyGame features
+   that you used in this list.
+
+    - how github works and how to use it to collaborate with people on a project
+    - there are libraries of sounds such as mix kit or Sound Bible
+    - we learned how to use the "colliderect" method of the "Rect" class to make smoother collisions
+    - we had to learn how to fit imported images to our selected screen size
+    - we had to outsource to make the background of some of our images transparent
+    - learned a method to have an object "chase" another object
+    - used loops to create many blocks for level 3 and 4
+    - created interactive buttons that 'highlight'
+    - creating different screens(instructions, main menu, game screen, restart)
+    - LOTS of logic (LOL) in our code for many different purposes
+
+
+
+
+
